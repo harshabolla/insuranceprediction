@@ -66,12 +66,7 @@ Now, run the following command in your Terminal/Command Prompt to install the li
 ```$ pip3 install -r requirements.txt```
 
 
-# 👏 And it's done!
-Feel free to mail me for any doubts/query ✉️ anikesadia01@gmail.com
-<br><br>
 
 
 
-# ❤️ Owner
-Made with ❤️  by MEMUDU Alimatou Sadia Anike.
 
